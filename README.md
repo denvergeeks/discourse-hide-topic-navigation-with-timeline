@@ -1,2 +1,2 @@
-# discourse-fixed-topic-edit-button
+# discourse-hide-topic-navigation-with-timeline
 Hides the Topic Navigation With Timeline.
