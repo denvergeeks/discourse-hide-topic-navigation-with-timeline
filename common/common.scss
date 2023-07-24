@@ -1,6 +1,9 @@
 .container.posts {
   grid-template-columns: 1fr 0 !important;
 }
+.container.posts>.row {
+    max-width: 100%;
+}
 #topic-title,
 .topic-body,
 #topic-footer-buttons,
